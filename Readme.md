@@ -66,7 +66,7 @@ LeetCode-Solutions/
 | Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **0** |
+| **Total** | **1** |
 
 > I will update this repository regularly as I solve more problems.
 
